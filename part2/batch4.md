@@ -141,13 +141,13 @@ insert into InterestMonth (INTEREST_MONTH_ID, ACCOUNT_TYPE, INTEREST_MONTHS) val
 
 1. A Super Admin tries to update Interest Rate for RECURRING_DEPOSIT_ACCOUNT with 12.45, Construct a query updating INTEREST Column in AccountType Table.
 
-2.
+2. Display the distinct loan accounts in the Interest Month table
 
 ### Difficulty Level : MEDIUM
 
-3.
+3. Display ACCOUNT_TYPE and maximum value of INTEREST_MONTHS in each Account type
 
-4.
+4. Join LoanAccountType, Interestmonth table by selecting MAX_LOAN_AMOUNT, INTEREST_MONTHS, ACCOUNT_TYPE Column using inner join and sort by ACCOUNT_TYPE, INTEREST_MONTHS.
 
 ### Difficulty Level : TOUGH
 
