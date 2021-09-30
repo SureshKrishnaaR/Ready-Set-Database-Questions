@@ -72,22 +72,22 @@ INSERT INTO orderedProducts values(404, 304, 8);
 
 # **QUESTIONS**
 
-### **QUESTION 1**
+### **QUESTION 1 - EASY**
 
 Display all the details in orders table in the descending order of total_cost, if two orders have the same total_cost then sort them in the ascending order of order_time_stamp
 
-### **QUESTION 2**
+### **QUESTION 2 - EASY**
 
 Change the total cost as zero for the customers who have canceled the order or have already paid for it(the one who doesn't pay on delivery)
 
-### **QUESTION 3**
+### **QUESTION 3 - MEDIUM**
 
 Delete the products from orderedProducts table for the orders which are canceled
 
-### **QUESTION 4**
+### **QUESTION 4 - EASY**
 
 Set default value for quantity as 0 in the ordered products table
 
-### **QUESTION 5**
+### **QUESTION 5 - EASY**
 
 Find the total number of items purchased with the order id in each order

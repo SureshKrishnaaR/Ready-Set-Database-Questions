@@ -67,22 +67,22 @@ INSERT INTO productOffers values(502, 405);
 
 # **QUESTIONS**
 
-### **QUESTION 1**
+### **QUESTION 1 - MEDIUM**
 
 Display the products(all product details) for which an offer is available
 
-### **QUESTION 2**
+### **QUESTION 2 - EASY**
 
 Increase the product price by 2000 for the products in which the name starts with C and ends with e and rating is not null
 
-### **QUESTION 3**
+### **QUESTION 3 - EASY**
 
 Remove the products in the price range of 100 and 300(both including) and with the maximum rating of 3
 
-### **QUESTION 4**
+### **QUESTION 4 - EASY**
 
 Rename the weight column of the products table to product_weight
 
-### **QUESTION 5**
+### **QUESTION 5 - EASY**
 
 Maximum rating of each category for categories which has it's 3rd letter as 'O'

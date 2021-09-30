@@ -71,22 +71,22 @@ INSERT INTO orders values(306, '2021-09-28 12:00:00', 30000, 'false', 'SUCCESSFU
 
 # **QUESTIONS**
 
-### **QUESTION 1**
+### **QUESTION 1 - EASY**
 
 Find out the number of customers who have given details about both phone number and city but not email address
 
-### **QUESTION 2**
+### **QUESTION 2 - EASY**
 
 Change the city as washington and phone number as 9281825621 for the user with customer id is 105
 
-### **QUESTION 3**
+### **QUESTION 3 - EASY**
 
 Delete the orders which are placed before 2 months
 
-### **QUESTION 4**
+### **QUESTION 4 - EASY**
 
 Change the show_to_user column in the orders table to type varchar with length 5
 
-### **QUESTION 5**
+### **QUESTION 5 - MEDIUM**
 
 Find out the customer id and maximum total cost of order placed by the customers in each city

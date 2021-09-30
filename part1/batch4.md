@@ -76,22 +76,22 @@ INSERT INTO rateProduct values(607, 405, 102, 1, "Worst");
 
 # **QUESTIONS**
 
-### **QUESTION 1**
+### **QUESTION 1 - EASY**
 
 Display product name, price and availability for products which have price greater than 1000 and product id not equal to 401 and rating is not null;
 
-### **QUESTION 2**
+### **QUESTION 2 - EASY**
 
 Increment the price of for the products by 1000 for the products which are available and have a minimum rating of 3
 
-### **QUESTION 3**
+### **QUESTION 3 - MEDIUM**
 
 Remove the customer reviews for the products where product id is not equal to 401 or the product lies in the category of food or clothing
 
-### **QUESTION 4**
+### **QUESTION 4 - EASY**
 
 Remove column customer review from the table rateproduct
 
-### **QUESTION 5**
+### **QUESTION 5 - EASY**
 
 Display the average rating with the customer id for each customer in the descending order of the average rating

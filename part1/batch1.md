@@ -67,22 +67,22 @@ INSERT INTO customerCards values(203, 7281828292828228, "Bruce Banner", "06/30",
 
 # **QUESTIONS**
 
-### **QUESTION 1**
+### **QUESTION 1 - EASY**
 
 From the customers table, find out the customers(display customer full name with the header as full_name - first name + last name seperated by space) who reside in CHENNAI and MUMBAI
 
-### **QUESTION 2**
+### **QUESTION 2 - MEDIUM**
 
 Change the expiry date as 06/25 for the customers whose first name starts with the letter B and is more than 5 characters in length
 
-### **QUESTION 3**
+### **QUESTION 3 - EASY**
 
 Delete the customers for whom both first name and last name are not present
 
-### **QUESTION 4**
+### **QUESTION 4 - EASY**
 
 Add a column called wifi_enabled of type boolean in the customercards table
 
-### **QUESTION 5**
+### **QUESTION 5 - EASY**
 
 Find out the number of customers from each city for all the cities except Houston(display city and customer count)
